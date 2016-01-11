@@ -1,1 +1,1 @@
-require version-baseband=T879:UVMA1
+require version-baseband=T879:UVMA1|T879:UVLE9
